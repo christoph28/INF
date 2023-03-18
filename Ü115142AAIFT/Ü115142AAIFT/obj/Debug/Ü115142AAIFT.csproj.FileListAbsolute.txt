@@ -1,0 +1,7 @@
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\obj\Debug\Ü115142AAIFT.csprojAssemblyReference.cache
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\obj\Debug\Ü115142AAIFT.csproj.CoreCompileInputs.cache
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\bin\Debug\Ü115142AAIFT.exe.config
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\bin\Debug\Ü115142AAIFT.exe
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\bin\Debug\Ü115142AAIFT.pdb
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\obj\Debug\Ü115142AAIFT.exe
+C:\Users\kurzc\OneDrive\Desktop\HTL Mödling\INF\2AAIFT\Ü115142AAIFT\Ü115142AAIFT\obj\Debug\Ü115142AAIFT.pdb
